@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GenerateViewTool::Renderer.copyright('Shivam Kaushik', 'All rights reserved')
+```
 
 ## Development
 
