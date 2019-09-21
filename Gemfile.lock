@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    generate_view_tool (0.1.0)
+    generate_view_tool (0.1.1)
 
 GEM
   remote: https://rubygems.org/
